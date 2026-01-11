@@ -26,14 +26,6 @@ Research Team for **Traffic OPerations and Simulation (TOPS)**, Tongji Universit
 
 ---
 
-*## Publications*
-*Selected papers (code/data when available):*
-*- **2026** — Paper Title, Venue. [Code](https://github.com/TOPS-Tongji/<repo>) | [Data](https://github.com/TOPS-Tongji/<repo>)*
-
-*(Tip: keep this list short; link to a full publication page elsewhere.)*
-
----
-
 ## Contributing
 We welcome:
 - Bug reports and feature requests via **Issues**
